@@ -1,2 +1,2 @@
-# Linear-Regression
-This is the practice of linear regression(AI/ML)
+# Machine Learning
+This is the practice of Machine Learning
